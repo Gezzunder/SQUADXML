@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="DRN">
+	<name>Don't Run Nakkid</name>
+	<web>http://www.gametracker.com/clan/dontrunnaked/</web>
+	<picture>DRN.paa</picture>
+	<title>DRN</title>
+	<member id=" 16623686" nick=" Wortho ">
+		<name>Wortho</name>
+		<icq> </icq>
+		<remark>Mullets forever!! </remark>
+	</member>
+	<member id=" 106895494" nick=" Brave Sir Robin ">
+		<name>BSR</name>
+		<icq> </icq>
+		<remark>Minecraft is the go </remark>
+	</member>
+	<member id=" 10411456" nick=" Biff ">
+		<name>Biff</name>
+		<icq> </icq>
+		<remark> My preshush </remark>
+	</member>
+	<member id=" 125937798" nick=" Evolutionary ">
+		<name>EVO</name>
+		<icq> </icq>
+		<remark>Who's that by the tree? </remark>
+	</member>
+	<member id=" 24854470" nick=" Taipan ">
+		<name>Taipan</name>
+		<icq> </icq>
+		<remark>Give me your kneecaps </remark>
+	</member>
+	<member id=" 24865926" nick=" Dreadweasel ">
+		<name>Dreadweasel</name>
+		<icq> </icq>
+		<remark>Kill it all with fire!!!</remark>
+	</member>
+	<member id=" 36147398" nick=" Darce ">
+		<name>Darce</name>
+		<icq> </icq>
+		<remark>F.O.N.C.</remark>
+	</member>
+	<member id=" 47565702" nick=" Tack ">
+		<name> Tack </name>
+		<icq> </icq>
+		<remark> Love me tender</remark>
+	</member>
+</squad>
